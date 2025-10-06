@@ -1,4 +1,4 @@
-# 🎮 Arth's Unity Game Collection
+# 🎮 My Unity Game Collection
 
 Welcome to my collection of games — all created and developed by me using **Unity**.  
 
